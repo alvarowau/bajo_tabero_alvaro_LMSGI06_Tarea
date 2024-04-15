@@ -14,6 +14,8 @@ A partir del fichero impresoras.xml, escribe consultas XQuery que devuelvan:
 (consulta3.xq) Marca y modelo de las impresoras con tamaño A3 (pueden tener otros).
 (consulta4.xq) Marca y modelo de las impresoras con tamaño A3 como único tamaño.
 (consulta5.xq) Modelo de las impresoras en red.
-(TodasConsultasJuntas.xq) Añado un archivo con todas las consultas juntas, es funcional ya que está separado por comas como se hace en XQuery."
+(TodasConsultasJuntas.xq) Añado un archivo con todas las consultas juntas, es funcional ya que está separado por comas como se hace en XQuery.
+
+<!-- Este ejercicio está disponible en GitHub en la siguiente dirección: https://github.com/alvarowau/bajo_tabero_alvaro_LMSGI06_Tarea -->
 
 Si hay algo que pueda mejorar, házmelo saber.
